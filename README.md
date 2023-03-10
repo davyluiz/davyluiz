@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=davyluiz&show_icons=true&locale=en" alt="davyluiz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=davyluiz&" alt="davyluiz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davyluiz&" alt="davyluiz" /></p>
 
