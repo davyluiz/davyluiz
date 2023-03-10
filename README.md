@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Davy Luiz</h1>
+
+
 - 🔭 I’m currently working with ****Python, ShellScript, AWS RDS and Redis;****
 
-- 🌱 I’m currently learning ****everything necessary**;**
+- 🌱 I’m currently learning **everything necessary**;**
 
-- 👯 I’m looking to collaborate on ****emergent technologies and innovation**;**
+- 👯 I’m looking to collaborate on **emergent technologies and innovation**;
 
-- 🤝 I’m looking for help with ****Open-source communities and tech;**
+- 🤝 I’m looking for help with **Open-source communities and tech;**
 
 - 📫 You can find me at **contato_davyluiz@hotmail.com**
 
